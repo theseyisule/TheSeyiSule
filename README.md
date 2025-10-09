@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Seyi Suleman
 
-<!--
-**theseyisule/TheSeyiSule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/seyi-suleman-a34498183"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" style="margin-right: 10px; vertical-align: middle;" /></a>
 
-Here are some ideas to get you started:
+**Microsoft 365 Engineer | Cloud Security Consultant | Azure Infrastructure & Identity Specialist | Podcaster**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I’m passionate about helping organizations maximize Microsoft 365 for identity, enabling secure collaboration through Teams, SharePoint Online, and OneDrive for Business, security, Copilot for M365, and compliance. 
+I’m also advancing my expertise in cloud security, building on my Microsoft 365 and Azure experience.
+Beyond the cloud, I host a podcast that explores bold, thought-provoking conversations about life.
+
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 Hybrid Identity & Entra ID Sync Lab  
+Hands-on setup demonstrating **Azure AD Connect synchronization** between on-prem AD and Entra ID, complete with **Conditional Access** and **Privileged Identity Management (PIM)** configuration.  
+[🔗 View Project](#)
+
+### 🔹 Azure Migrate End-to-End Assessment  
+Automated discovery and analysis of on-prem workloads using **RVTools** and **Azure Migrate**. Includes guidance on **SQL discovery permissions** and **dependency mapping**.  
+[🔗 View Project](#)
+
+### 🔹 Microsoft 365 Copilot – Data Governance Experiment  
+Explored Copilot’s ability to analyze and classify data from a sample dataset, generating a **first-draft data dictionary** and **sensitivity classification report**.  
+[🔗 View Project](#)
+
+---
+
+## 🧠 Skills & Technologies
+
+`Azure` • `Microsoft 365` • `Entra ID` • `Intune` • `Defender for Cloud` • `PowerShell`  
+`Conditional Access` • `PIM` • `Data Classification` • `Azure Migrate` •  
+`Windows Server ADDS` • `GitHub` • `Security Operations`
+
+---
+
+## 🎙 Podcast & Thought Leadership
+
+🎧 [Exploring Controversial Conversations in Tech and Society](#)  
+🎧 [What Cloud Security Really Means Beyond Tools](#)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" style="margin-right: 10px;" />
+  </a>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40px" style="margin-right: 10px;" />
+  </a>
+</p>
+
+---
+
+> *“Building secure foundations for the future — one cloud at a time.”*
+
