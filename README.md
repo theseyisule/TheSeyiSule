@@ -59,5 +59,5 @@ Explored Copilot’s ability to analyze and classify data from a sample dataset,
 
 ---
 
-> *“Building secure foundations for the future — one cloud at a time.”*
+> *“Building secure foundations for the future one cloud at a time.”*
 
