@@ -15,10 +15,10 @@ Beyond the cloud, I host a podcast that explores bold, thought-provoking convers
 ## 💼 Featured Projects
 
 ### 🔹 Hybrid Identity & Entra ID Sync Lab  
-Hands-on setup demonstrating **Azure AD Connect synchronization** between on-prem AD and Entra ID, complete with **Conditional Access** and **Privileged Identity Management (PIM)** configuration.  
+Hands-on Microsoft 365 Identity Lab demonstrating **Zero Trust identity approach** using Entra ID with **Conditional Access** and **Privileged Identity Management (PIM)** configuration.  
 [🔗 View Project](#)
 
-### 🔹 Azure Migrate End-to-End Assessment  
+### 🔹 Conditional Access + PIM + Passwordless (Entra ID)
 Automated discovery and analysis of on-prem workloads using **RVTools** and **Azure Migrate**. Includes guidance on **SQL discovery permissions** and **dependency mapping**.  
 [🔗 View Project](#)
 
@@ -33,13 +33,6 @@ Explored Copilot’s ability to analyze and classify data from a sample dataset,
 `Azure` • `Microsoft 365` • `Entra ID` • `Intune` • `Defender for Cloud` • `PowerShell`  
 `Conditional Access` • `PIM` • `Data Classification` • `Azure Migrate` •  
 `Windows Server ADDS` • `GitHub` • `Security Operations`
-
----
-
-## 🎙 Podcast & Thought Leadership
-
-🎧 [Exploring Controversial Conversations in Tech and Society](#)  
-🎧 [What Cloud Security Really Means Beyond Tools](#)
 
 ---
 
