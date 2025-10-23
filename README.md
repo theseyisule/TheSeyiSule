@@ -19,8 +19,8 @@ Hands-on Microsoft 365 Identity Lab demonstrating **Zero Trust identity approach
 [🔗 View Project](https://github.com/theseyisule/Conditional-Access-PIM-Passwordless-Entra-ID-)
 
 ### 🔹 Conditional Access + PIM + Passwordless (Entra ID)
-Automated discovery and analysis of on-prem workloads using **RVTools** and **Azure Migrate**. Includes guidance on **SQL discovery permissions** and **dependency mapping**.  
-[🔗 View Project](#)
+Hands-on Microsoft 365 Identity Lab demonstrating **Zero Trust identity approach** using Entra ID with **Conditional Access** and **Privileged Identity Management (PIM)** configuration.  
+[🔗 View Project](https://github.com/theseyisule/Conditional-Access-PIM-Passwordless-Entra-ID-)
 
 ### 🔹 Microsoft 365 Copilot – Data Governance Experiment  
 Explored Copilot’s ability to analyze and classify data from a sample dataset, generating a **first-draft data dictionary** and **sensitivity classification report**.  
