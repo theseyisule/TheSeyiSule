@@ -16,7 +16,7 @@ Beyond the cloud, I host a podcast that explores bold, thought-provoking convers
 
 ### 🔹 Hybrid Identity & Entra ID Sync Lab  
 Hands-on Microsoft 365 Identity Lab demonstrating **Zero Trust identity approach** using Entra ID with **Conditional Access** and **Privileged Identity Management (PIM)** configuration.  
-[🔗 View Project](#)
+[🔗 View Project](#) (https://github.com/theseyisule/Conditional-Access-PIM-Passwordless-Entra-ID-)
 
 ### 🔹 Conditional Access + PIM + Passwordless (Entra ID)
 Automated discovery and analysis of on-prem workloads using **RVTools** and **Azure Migrate**. Includes guidance on **SQL discovery permissions** and **dependency mapping**.  
