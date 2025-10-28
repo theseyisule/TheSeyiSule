@@ -14,9 +14,9 @@ Beyond the cloud, I host a podcast that explores bold, thought-provoking convers
 
 ## 💼 Featured Projects
 
-### 🔹 Hybrid Identity & Entra ID Sync Lab  
-Hands-on Microsoft 365 Identity Lab demonstrating **Zero Trust identity approach** using Entra ID with **Conditional Access** and **Privileged Identity Management (PIM)** configuration.  
-[🔗 View Project](https://github.com/theseyisule/Conditional-Access-PIM-Passwordless-Entra-ID-)
+### 🔹 Hybrid Identity & Entra ID Sync Lab + Password Hash Sync + Password Writeback
+Hands-on Microsoft Entra Connect lab demonstrating hybrid identity with Password Hash Synchronization and Password Writeback integration. </br>
+[🔗 View Project](https://github.com/theseyisule/Hybrid-Identity-with-Password-Hash-Sync-Password-Writeback)
 
 ### 🔹 Conditional Access + PIM + Passwordless (Entra ID)
 Hands-on Microsoft 365 Identity Lab demonstrating **Zero Trust identity approach** using Entra ID with **Conditional Access** and **Privileged Identity Management (PIM)** configuration.  
