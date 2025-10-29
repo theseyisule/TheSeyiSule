@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/seyi-suleman-a34498183"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" style="margin-right: 10px; vertical-align: middle;" /></a>
 
-**Microsoft 365 Engineer | Cloud Security Consultant | Azure Infrastructure & Identity Specialist | Podcaster**
+**Microsoft 365 Engineer | Cloud Security Consultant | Identity Specialist | Podcaster**
 
 ## About Me
 I’m passionate about helping organizations maximize Microsoft 365 for identity, enabling secure collaboration through Teams, SharePoint Online, and OneDrive for Business, security, Copilot for M365, and compliance. 
